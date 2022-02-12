@@ -1,2 +1,2 @@
 # JavaTutorials
-A quick guide with examples to lead a better understanding in Java
+A quick guide with examples to bring a better understanding in Java
